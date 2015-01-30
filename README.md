@@ -16,7 +16,7 @@ level: 1
   <title></title>
 </head>
 <body>
-  <h1>This is the main heading in the site,</h1>
+  <h1>This is the main heading in the site.</h1>
   <p>Normal text goes in this p tag.</p>
 </body>
 </html>
