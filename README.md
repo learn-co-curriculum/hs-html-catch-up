@@ -8,6 +8,20 @@ level: 1
 ### Study Guide
 <img src="https://after-school-assets.s3.amazonaws.com/html.jpg" width="200px" align="right" hspace="10"> Make your way through this [CodeAcademy tutorial](http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b) and you'll be right on the HTML track.
 
+### Your Barebones HTML Setup
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title></title>
+</head>
+<body>
+  <h1>This is the main heading in the site,</h1>
+  <p>Normal text goes in this p tag.</p>
+</body>
+</html>
+```
+
 ### Check Out These Helpful HTML Elements
 
 + `<h1> </h1> through <h6> </h6>` This tag is used for headings with `<h1>` being the most important and `<h6>` being the least. Headings are great for introducing sections in your website. Here are all the tags side by side so you can see the difference:
