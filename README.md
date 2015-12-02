@@ -32,3 +32,5 @@
 + `<img src="">` The `<img>` tag is for images. `src` is an attribute of the `<img>` tag, where you list the image you want to display on your website. You can link directly to an image you found on a separate website, in which case you would list the URL to the image. Or you can link to images stored on your computer, in which case you would list the path to the image.
 
 + `<title> </title>` The `<title>` tag is used for the title of your site. This is the text that will be displayed in the browser tab.
+
+<a href='https://learn.co/lessons/hs-html-catch-up' data-visibility='hidden'>View this lesson on Learn.co</a>
